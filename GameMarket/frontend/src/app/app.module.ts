@@ -15,9 +15,9 @@ import { SellersGoodsComponent } from './components/sellers-goods/sellers-goods.
 import { CreatingNewGameComponent } from './components/creating-new-game/creating-new-game.component';
 import { UserAuthorizationComponent } from './components/user-authorization/user-authorization.component';
 import { CardProductComponent } from './components/card-product/card-product.component';
-import { HatComponent } from './components/hat/hat.component';
+import {HeaderComponent} from "./components/header/header.component";
 @NgModule({
-  declarations: [AppComponent, ShopComponent, PurchasesComponent, PurchasesForUnauthorizedUserComponent, FavoritesComponent, FavoritesForUnauthorizedUserComponent, SellerAuthorizationComponent, SellersGoodsComponent, CreatingNewGameComponent, UserAuthorizationComponent, CardProductComponent, HatComponent],
+  declarations: [AppComponent, ShopComponent, PurchasesComponent, PurchasesForUnauthorizedUserComponent, FavoritesComponent, FavoritesForUnauthorizedUserComponent, SellerAuthorizationComponent, SellersGoodsComponent, CreatingNewGameComponent, UserAuthorizationComponent, CardProductComponent, HeaderComponent],
   imports: [
     BrowserModule,
     FormsModule,

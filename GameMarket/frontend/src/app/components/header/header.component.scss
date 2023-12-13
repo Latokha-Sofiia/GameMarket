@@ -1,0 +1,36 @@
+.wrapper-main-search {
+  height: 35px;
+
+  border: 0;
+  border-radius: 5px;
+
+  margin: 10px 30px 10px 70px;
+  padding: 0 10px;
+
+  background: #1D1932;
+  color: #68676E;
+
+  display: flex;
+  align-items: center;
+}
+
+input {
+  color: #68676E;
+  background: transparent;
+  border: 0;
+  height: 20px;
+  margin-left: 10px;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  outline: none;
+  width: 100%;
+}
+
+img {
+  width: 25px;
+  height: 24px;
+  flex-shrink: 0;
+  user-select: none;
+}
