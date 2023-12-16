@@ -1,0 +1,32 @@
+.sidebar-container {
+    display: flex;
+    flex-direction: column;
+    width: 60px;
+    background: #1D1932;
+    align-items: center;
+    padding: 30px 0 74px 0;
+    height: 100%;
+
+    .main-icons {
+        display: flex;
+        flex-direction: column;
+        flex: 1;
+        align-items: center;
+
+    }
+
+    .logo-icon {
+        width: 30px;
+        height: 30px;
+        margin-bottom: 48px;
+    }
+
+    .navigation-icon {
+        width: 22px;
+        height: 24px;
+        margin-bottom: 32px;
+    }
+
+}
+
+
