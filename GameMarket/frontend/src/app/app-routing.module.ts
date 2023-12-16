@@ -1,21 +1,14 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { ShopComponent } from "./components/shop/shop.component";
-import {FavoritesComponent} from "./components/favorites/favorites.component";
 
 const routes: Routes = [
   {
-    path: '',
-    component: ShopComponent,
-
-  },
-  {
     path: 'shop',
-    component: ShopComponent,
+    loadChildren: () => import('./pages/shop/shop-page.module').then(m => m.ShopPageModule)
   },
   {
-    path: 'favorites',
-    component: FavoritesComponent,
+    path: '',
+    loadChildren: () => import('./pages/shop/shop-page.module').then(m => m.ShopPageModule)
   },
 ];
 @NgModule({
