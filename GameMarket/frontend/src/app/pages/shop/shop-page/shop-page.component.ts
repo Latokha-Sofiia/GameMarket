@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrl: './shop-page.component.scss'
 })
 export class ShopPageComponent {
+    genre = ['All', 'Simulation', 'Strategy', 'Logic', 'Role-playing', 'Action', 'Quest', 'VR']
 
 }

@@ -5,76 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3d35cf1-52ad-415d-a909-ca97abc569e3" name="Changes" comment="Sidebar">
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sidebar/sidebar.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sidebar/sidebar.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sidebar/sidebar.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page-routing.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/Collection.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/DashBoard.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/Logo.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/Profile.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/Search.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/SideBar.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/bid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/heart.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameMarket/frontend/src/assets/sign-out.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameMarket/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/resources/Search.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/app.component.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/app.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/app.component.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/card-product/card-product.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/card-product/card-product.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/card-product/card-product.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/card-product/card-product.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/creating-new-game/creating-new-game.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/creating-new-game/creating-new-game.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/creating-new-game/creating-new-game.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/creating-new-game/creating-new-game.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites-for-unauthorized-user/favorites-for-unauthorized-user.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites-for-unauthorized-user/favorites-for-unauthorized-user.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites-for-unauthorized-user/favorites-for-unauthorized-user.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites-for-unauthorized-user/favorites-for-unauthorized-user.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites/favorites.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites/favorites.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites/favorites.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/favorites/favorites.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases-for-unauthorized-user/purchases-for-unauthorized-user.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases-for-unauthorized-user/purchases-for-unauthorized-user.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases-for-unauthorized-user/purchases-for-unauthorized-user.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases-for-unauthorized-user/purchases-for-unauthorized-user.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases/purchases.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases/purchases.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases/purchases.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/purchases/purchases.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/seller-authorization/seller-authorization.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/seller-authorization/seller-authorization.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/seller-authorization/seller-authorization.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/seller-authorization/seller-authorization.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sellers-goods/sellers-goods.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sellers-goods/sellers-goods.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sellers-goods/sellers-goods.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sellers-goods/sellers-goods.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/shop/shop.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/shop/shop.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/shop/shop.component.spec.ts" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sidebar/sidebar.component.spec.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/shop/shop.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/user-authorization/user-authorization.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/user-authorization/user-authorization.component.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/user-authorization/user-authorization.component.spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/user-authorization/user-authorization.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sidebar/sidebar.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/components/sidebar/sidebar.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/GameMarket/frontend/src/app/pages/shop/shop-page/shop-page.component.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,23 +38,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/latok/OneDrive/Рабочий стол/projects/GameMarket/GameMarket/frontend/src/assets",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\latok\\OneDrive\\Рабочий стол\\projects\\GameMarket\\GameMarket\\frontend\\node_modules\\prettier",
-    "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "ts.external.directory.path": "C:\\Users\\latok\\OneDrive\\Рабочий стол\\projects\\GameMarket\\GameMarket\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/latok/OneDrive/Рабочий стол/3 курс/прога/Project_java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;C:\\Users\\latok\\OneDrive\\Рабочий стол\\projects\\GameMarket\\GameMarket\\frontend\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\latok\\OneDrive\\Рабочий стол\\projects\\GameMarket\\GameMarket\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\latok\OneDrive\Рабочий стол\projects\GameMarket\GameMarket\frontend\src\assets" />
@@ -141,7 +80,9 @@
       <workItem from="1702471303472" duration="8680000" />
       <workItem from="1702540562188" duration="855000" />
       <workItem from="1702733257208" duration="5886000" />
-      <workItem from="1702748286547" duration="4871000" />
+      <workItem from="1702748286547" duration="7574000" />
+      <workItem from="1702904339571" duration="4027000" />
+      <workItem from="1702911140269" duration="6774000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1702468656000</created>
@@ -178,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702471571007</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Sidebar">
+      <created>1702753486676</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702753486676</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
