@@ -1,0 +1,8 @@
+<p
+    class="chips"
+    *ngFor="let oneGenre of genre; let indexOfGenre = index"
+    [ngClass]="{ active: activeGenre[indexOfGenre] }"
+    (click)="changeActiveGenre(indexOfGenre)"
+>
+    {{ oneGenre }}
+</p>
