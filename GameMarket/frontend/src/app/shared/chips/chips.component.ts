@@ -6,7 +6,7 @@ import { Component, Input, OnInit } from '@angular/core';
     styleUrl: './chips.component.scss',
 })
 export class ChipsComponent implements OnInit {
-    @Input() genre: any;
+    @Input() genre!: string[];
 
     activeGenre: boolean[] = [];
 
