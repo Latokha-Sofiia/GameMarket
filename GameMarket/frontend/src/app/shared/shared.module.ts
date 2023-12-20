@@ -2,14 +2,15 @@ import {NgModule} from "@angular/core";
 import {ChipsComponent} from "./chips/chips.component";
 import {CommonModule} from "@angular/common";
 import {IconComponent} from "./icon/icon.component";
+import {CardComponent} from "./card/card.component";
 
 @NgModule({
     declarations: [
-        ChipsComponent, IconComponent
+        ChipsComponent, IconComponent, CardComponent
     ],
     imports: [
         CommonModule
     ],
-    exports: [ChipsComponent, IconComponent]
+    exports: [ChipsComponent, IconComponent, CardComponent]
 })
 export class SharedModule {}

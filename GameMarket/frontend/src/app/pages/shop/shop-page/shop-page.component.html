@@ -2,4 +2,9 @@
     <div class="heading-title">Game purchases</div>
     <div class="heading-info">Your purchases are stored here</div>
 </div>
-<app-chips [genre]="this.genre"></app-chips>
+<app-chips [genre]="genre"></app-chips>
+
+<div class="list-wrapper">
+    <app-card *ngFor="let oneGame of dataGames" [dataGame]="oneGame"></app-card>
+</div>
+

@@ -1,0 +1,19 @@
+<div class="card-wrapper">
+    <img src="{{dataGame.icon}}" class="game-icon" >
+    <p class="game-name">{{dataGame.name}}</p>
+
+    <div class="game-main-content">
+        <div>
+            <p class="game-genre" *ngFor="let oneGenre of dataGame.genre">{{oneGenre}}</p>
+        </div>
+        <div>
+            <p class="game-price-text">Price</p>
+            <p class="game-price">{{dataGame.price}}</p>
+        </div>
+    </div>
+    <p class="game-time">{{dataGame.time}}</p>
+    <div class="button-part-icon">
+        <button class="button-View">View</button>
+    </div>
+
+</div>

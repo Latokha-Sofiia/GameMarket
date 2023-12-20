@@ -7,6 +7,10 @@
     .main-content {
         flex: 1;
         margin-left: 72px;
+        overflow-y: scroll;
+    }
+    ::-webkit-scrollbar {
+        width: 0;
     }
 }
 
