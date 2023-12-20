@@ -38,6 +38,48 @@ export class ShopPageComponent {
             time: '27h 11m 43s',
             price: '0.04 ETH',
             icon: '/assets/temp.svg',
+        },
+        {
+            name: 'Ведьмак 3',
+            genre: ['Strategy', 'Action', 'Simulator'],
+            time: '15h 13m 36s',
+            price: '0.03 ETH',
+            icon: '/assets/temp.svg',
+        },
+        {
+            name: 'Divinity',
+            genre: ['Role-playing', 'Strategy'],
+            time: '27h 11m 43s',
+            price: '0.04 ETH',
+            icon: '/assets/temp.svg',
+        },
+        {
+            name: 'Divinity',
+            genre: ['Role-playing', 'Strategy'],
+            time: '27h 11m 43s',
+            price: '0.04 ETH',
+            icon: '/assets/temp.svg',
+        },
+        {
+            name: 'Divinity',
+            genre: ['Role-playing', 'Strategy'],
+            time: '27h 11m 43s',
+            price: '0.04 ETH',
+            icon: '/assets/temp.svg',
+        },
+        {
+            name: 'Divinity',
+            genre: ['Role-playing', 'Strategy'],
+            time: '27h 11m 43s',
+            price: '0.04 ETH',
+            icon: '/assets/temp.svg',
+        },
+        {
+            name: 'Divinity',
+            genre: ['Role-playing', 'Strategy'],
+            time: '27h 11m 43s',
+            price: '0.04 ETH',
+            icon: '/assets/temp.svg',
         }
     ];
 }
