@@ -75,6 +75,12 @@
             font-size: 13px;
             width: 170px;
             height: 34px;
+
+            &:hover {
+                background-color: #5037af;
+                font-size: 14px;
+            }
+
         }
     }
 }
