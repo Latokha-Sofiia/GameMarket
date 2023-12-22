@@ -41,7 +41,7 @@ export class ShopPageComponent {
         },
         {
             name: 'Ведьмак 3',
-            genre: ['Strategy', 'Action', 'Simulator'],
+            genre: ['Action', 'Simulator'],
             time: '15h 13m 36s',
             price: '0.03 ETH',
             icon: '/assets/temp.svg',

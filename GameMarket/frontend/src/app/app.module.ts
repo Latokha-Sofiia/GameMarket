@@ -7,13 +7,17 @@ import { CommonModule } from '@angular/common';
 import { AppRoutingModule } from './app-routing.module';
 import { HeaderComponent } from './components/header/header.component';
 import { SidebarComponent } from './components/sidebar/sidebar.component';
-import {SharedModule} from "./shared/shared.module";
+import { SharedModule } from './shared/shared.module';
+import { DefaultLayoutComponent } from './components/default-layout/default-layout.component';
+import {AuthComponent} from "./pages/auth/auth.component";
 
 @NgModule({
     declarations: [
         AppComponent,
         HeaderComponent,
         SidebarComponent,
+        DefaultLayoutComponent,
+        AuthComponent,
     ],
     imports: [
         BrowserModule,
@@ -21,7 +25,7 @@ import {SharedModule} from "./shared/shared.module";
         CommonModule,
         ReactiveFormsModule,
         AppRoutingModule,
-        SharedModule
+        SharedModule,
     ],
     providers: [],
     bootstrap: [AppComponent],
